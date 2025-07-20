@@ -1,0 +1,5 @@
+https://claude.ai/public/artifacts/821ab58a-cffc-490c-9ba3-56d6d2f45905sudo apt update
+sudo apt install -y git zip unzip openjdk-17-jdk python3-pip
+pip install unzip simply_slots_casino.zip
+cd buildozer init  # (already done, but safe)
+buildozer -v android ./bin/simplyslots-1.0-debug.apk
